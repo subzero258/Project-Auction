@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Ben/Documents/GitHub/Project-Auction/MyProject/Content/CardUI/W_CardHand.uasset",
+				"C:/Users/Ben/Documents/GitHub/Project-Auction/MyProject/Content/CardUI/W_Card.uasset",
+				"C:/Users/Ben/Documents/GitHub/Project-Auction/MyProject/Content/CardUI/BPFL_Cards.uasset",
+				"C:/Users/Ben/Documents/GitHub/Project-Auction/MyProject/Content/CardUI/W_CardHud.uasset",
 				"C:/Users/Ben/Documents/Unreal Projects/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/Ben/Documents/Unreal Projects/MyProject/Content/CardUI/W_Card.uasset",
 				"C:/Users/Ben/Documents/Unreal Projects/MyProject/Content/CardUI/W_CardHand.uasset",
